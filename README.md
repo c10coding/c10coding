@@ -4,31 +4,21 @@
 
 ### Hello World 👋 I am [Caleb Owens](https://github.com/c10coding)
 
-<a href="https://www.linkedin.com/in/caleb-owens-003264169/">
-  <img align="left" alt="TomasCostaK LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-calebowens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-owens-003264169/)](https://www.linkedin.com/in/caleb-owens-003264169/) 
+[![Gmail Badge](https://img.shields.io/badge/-caleb.ja.owens@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caleb.ja.owens@gmail.com)](mailto:caleb.ja.owens@gmail.com)
 
-<div>
-  
-<br />
-<p>
+## Hi 👋, 
+I'm Caleb Owens, I'm a Computer Science student👨‍💻 who is passionate about programming. I'm also also a business owner - nthByte LLC
+🏄‍♂️. 
 
-- 🔭 I am currently finishing my computer science degree at George Mason Univeristy**
-- 🌱 I am learning how to use React
-- 👯 I own a company called nthByte LLC
-- 💬 Ask me about **anything**
-
-</h4>
-</div>
-
-<br />
-
-<div><p>My overview: </p></div>
+- 🔭 I’m currently working on Spigot plugins
+- 🌱 I’m currently learning React
+- 💬 Ask me about: tech, game development, or psychology
+- 😄 Pronouns: he/him
+-  ⚡ Languages: Java, Javascript, Python3
 
 ![Caleb's github stats](https://github-readme-stats.vercel.app/api?username=c10coding&show_icons=true)
 <br />
 
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
-
-<br />
