@@ -32,7 +32,7 @@
 
 <div><p>My overview: </p></div>
 
-![TomasCostaK's github stats](https://github-readme-stats.vercel.app/api?username=c10codingK&show_icons=true)
+![TomasCostaK's github stats](https://github-readme-stats.vercel.app/api?username=c10coding&show_icons=true)
 <br />
 
 <!-- Optional Visitors badge: -->
