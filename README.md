@@ -17,6 +17,8 @@ I'm Caleb Owens, I'm a Computer Science student👨‍💻 who is passionate abo
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Java, Javascript, Python3
 
+Discord: C10#9398
+
 ![Caleb's github stats](https://github-readme-stats.vercel.app/api?username=c10coding&show_icons=true)
 <br />
 
