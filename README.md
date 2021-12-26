@@ -24,3 +24,5 @@ Discord: C10#9398
 
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
+
+Discord: C10#9398
