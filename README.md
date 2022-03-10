@@ -7,8 +7,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-calebowens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-owens-003264169/)](https://www.linkedin.com/in/caleb-owens-003264169/) 
 [![Gmail Badge](https://img.shields.io/badge/-caleb.ja.owens@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caleb.ja.owens@gmail.com)](mailto:caleb.ja.owens@gmail.com)
 
-## Extra Info 👋, 
-ℹ️ I'm a Computer Science student👨‍💻 who is passionate about programming. I'm also also a business owner - nthByte LLC
+## Extra Info ℹ️
+I'm a Computer Science student👨‍💻 who is passionate about programming. I'm also also a business owner - nthByte LLC
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Spigot plugins
@@ -19,7 +19,7 @@
 
 Discord: C10#9398
 
-![Caleb's github stats](https://github-readme-stats.vercel.app/api?username=c10coding&show_icons=true)
+![Caleb's github stats](https://github-readme-stats.vercel.app/api?username=its-c10&show_icons=true)
 <br />
 
 <!-- Optional Visitors badge: -->
