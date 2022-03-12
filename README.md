@@ -2,7 +2,7 @@
  <h2 align="center">Welcome to my Profile</h2>
 </p>
 
-### Hey there 👋. I'm [Caleb](https://github.com/c10coding)
+### Hey there 👋. I'm [Caleb](https://github.com/its-c10)
 
 [![Linkedin Badge](https://img.shields.io/badge/-calebowens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-owens-003264169/)](https://www.linkedin.com/in/caleb-owens-003264169/) 
 [![Gmail Badge](https://img.shields.io/badge/-caleb.ja.owens@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caleb.ja.owens@gmail.com)](mailto:caleb.ja.owens@gmail.com)
