@@ -11,7 +11,7 @@
 [![](https://dcbadge.vercel.app/api/server/A7RAxXTqzb)](https://discord.gg/A7RAxXTqzb)
 
 ## Extra Info ℹ️
-I'm a Computer Science student👨‍💻 who is passionate about programming. I'm also also a business owner - nthByte LLC
+I'm a Computer Science student👨‍💻 who is passionate about programming.
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Spigot plugins
