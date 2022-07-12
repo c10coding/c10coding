@@ -6,6 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-calebowens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-owens-003264169/)](https://www.linkedin.com/in/caleb-owens-003264169/) 
 [![Gmail Badge](https://img.shields.io/badge/-caleb.ja.owens@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caleb.ja.owens@gmail.com)](mailto:caleb.ja.owens@gmail.com)
+![](https://dcbadge.vercel.app/api/shield/180091663442509824)
 
 ## Extra Info ℹ️
 I'm a Computer Science student👨‍💻 who is passionate about programming. I'm also also a business owner - nthByte LLC
