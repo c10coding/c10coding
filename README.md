@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-caleb.ja.owens@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caleb.ja.owens@gmail.com)](mailto:caleb.ja.owens@gmail.com)
 <br />
 ![](https://dcbadge.vercel.app/api/shield/180091663442509824&?compact=true&?height=10)
-[![](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/A7RAxXTqzb)
+[![](https://dcbadge.vercel.app/api/server/A7RAxXTqzb)](https://discord.gg/A7RAxXTqzb)
 
 ## Extra Info ℹ️
 I'm a Computer Science student👨‍💻 who is passionate about programming. I'm also also a business owner - nthByte LLC
