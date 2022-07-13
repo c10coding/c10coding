@@ -1,6 +1,4 @@
-<a href="https://jurre.me/">
-  <img src="https://github.com/its-c10/its-c10/blob/main/banner.png" alt="C10" />
-</a>
+<img src="https://github.com/its-c10/its-c10/blob/main/banner.png" alt="C10" />
 
 <br>
 <br>
