@@ -1,29 +1,24 @@
+<a href="https://jurre.me/">
+  <img src="https://github.com/its-c10/its-c10/blob/main/banner.png" alt="C10" />
+</a>
+
+<br>
+<br>
+
+> Hey! I'm a 21 year old Java developer from the US.
+<br>
+
+
 <p align="center">
- <h2 align="center">Welcome to my Profile</h2>
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=its-c10&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
+  </a>
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/skills/?names=js,java,php,python,html,css,c,cpp,csharp,kotlin,xml,json,yaml,mysql&includeNames=true" alt="GitHub WidgetBox" />
+  </a>
 </p>
 
-### Hey there 👋. I'm [Caleb](https://github.com/its-c10)
-
-[![Linkedin Badge](https://img.shields.io/badge/-calebowens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-owens-003264169/)](https://www.linkedin.com/in/caleb-owens-003264169/) 
-[![Gmail Badge](https://img.shields.io/badge/-caleb.ja.owens@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caleb.ja.owens@gmail.com)](mailto:caleb.ja.owens@gmail.com)
-<br />
-![](https://dcbadge.vercel.app/api/shield/180091663442509824&?compact=true&?height=10)
-[![](https://dcbadge.vercel.app/api/server/A7RAxXTqzb)](https://discord.gg/A7RAxXTqzb)
-
-## Extra Info ℹ️
-I'm a Computer Science student👨‍💻 who is passionate about programming.
-🏄‍♂️. 
-
-- 🔭 I’m currently working on Spigot plugins
-- 🌱 I’m currently learning React
-- 💬 Ask me about: tech, game development, or psychology
-- 😄 Pronouns: he/him
--  ⚡ Languages: Java, Javascript, Python3
-
-Discord: C10#9398
-
-![Caleb's github stats](https://github-readme-stats.vercel.app/api?username=its-c10&show_icons=true)
-<br />
-
-<!-- Optional Visitors badge: -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
+<p align="center">
+  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=its-c10&count_private=true&show_icons=true&theme=dracula" alt="User stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-c10&layout=compact&theme=dracula" alt="Top languages" />
+</p>
